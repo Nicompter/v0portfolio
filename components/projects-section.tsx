@@ -11,7 +11,7 @@ const projects = [
   {
     title: "Portfolio Website",
     description: "A modern portfolio website built with Next.js, Tailwind CSS and Shadcn UI designed by v0.",
-    image: "/placeholder.svg?height=300&width=500",
+    image: "/v0portfolio.jpg",
     tags: ["Next.js", "React", "Tailwind CSS", "Shadcn UI", "v0"],
     githubUrl: "https://github.com/Nicompter/v0portfolio",
     liveUrl: "https://nicompter.de",
@@ -19,7 +19,7 @@ const projects = [
   {
     title: "Count to 1 Billion",
     description: "A website which allows everyone to blick a button and count to 1 billion.",
-    image: "/placeholder.svg?height=300&width=500",
+    image: "/countto1b.jpg",
     tags: ["React", "Node.js", "Redis", "Vite"],
     githubUrl: "https://github.com",
     liveUrl: "https://counter.nicompter.de",
@@ -27,7 +27,7 @@ const projects = [
   {
     title: "Taskly",
     description: "A productivity app for managing tasks.",
-    image: "/placeholder.svg?height=300&width=500",
+    image: "/taskly.jpg",
     tags: ["React", "Firebase", "Tailwind CSS", "Shadcn UI", "CapacitorJS"],
     githubUrl: "https://github.com",
     liveUrl: "https://taskly.nicompter.de",
